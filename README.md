@@ -4,7 +4,7 @@
 [//]: # (is part of this source code package. No part of the package, including)
 [//]: # (this file, may be copied, modified, propagated, or distributed except according to)
 [//]: # (the terms contained in the file ‘LICENCE.txt’.)
-[![License: ESA permissive](https://img.shields.io/badge/ESA%20Public%20License-Permissive-blue.svg)](https://github.com/ESA-Datalabs/Euclid-Q1/blob/main/LICENSE.txt))
+[![License: ESA permissive](https://img.shields.io/badge/ESA%20Public%20License-Permissive-blue.svg)](https://github.com/ESA-Datalabs/Euclid-Q1/blob/main/LICENSE.txt)
 
 # Euclid-Q1
 

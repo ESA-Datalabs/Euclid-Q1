@@ -1,3 +1,11 @@
+[//]: # (Copyright &#40;c&#41; European Space Agency, 2025.)
+[//]: # ()
+[//]: # (This file is subject to the terms and conditions defined in file 'LICENCE.txt', which)
+[//]: # (is part of this source code package. No part of the package, including)
+[//]: # (this file, may be copied, modified, propagated, or distributed except according to)
+[//]: # (the terms contained in the file ‘LICENCE.txt’.)
+[![License: ESA permissive](https://img.shields.io/badge/ESA%20Public%20License-Permissive-blue.svg)](https://github.com/ESA-Datalabs/Euclid-Q1/blob/main/LICENSE.txt))
+
 # Euclid-Q1
 
 This repository contains tutorial Jupyter Notebooks for accessing and using Euclid-Q1 data on ESA Datalabs. Description of the Euclid Q1 data release is available at: https://www.cosmos.esa.int/web/euclid/euclid-q1-data-release 
